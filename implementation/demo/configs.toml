@@ -1,0 +1,5 @@
+#GiG
+
+[db_configs]
+db_file_path = "implementation/demo/digio.sqlite"
+db_prefix = "sqlite:///"
